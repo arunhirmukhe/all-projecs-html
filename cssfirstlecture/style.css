@@ -1,0 +1,27 @@
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    vertical-align: center;
+}
+
+h1{
+    text-align: left;
+    direction: rtl;   
+    text-shadow: 2px 2px;
+    text-decoration: underline dotted;
+    
+}
+
+p.upper{
+    text-transform: uppercase;
+}
+
+p.lower{
+    text-transform: lowercase;
+}
+
+p.capitalize{
+    text-transform: capitalize;
+}
